@@ -3,7 +3,7 @@
 
 using namespace std;
 
-const int ll = 80; // Line Height
+const int ll = 80; // Line Height 
 
 void center (string a, bool b) { 
 	
