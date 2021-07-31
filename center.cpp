@@ -5,7 +5,7 @@ using namespace std;
 
 const int ll = 80;
 
-void center (string a, bool b) { // Function "print" used for center
+void center (string a, bool b) { 
 	
 	int spaces = 0;
 	
@@ -13,19 +13,19 @@ void center (string a, bool b) { // Function "print" used for center
 		
 		cout << "\n";
    
-    spaces = (ll - a.size()) / 2; 
+    	spaces = (ll - a.size()) / 2; 
 
     if (spaces > 0) cout << string(spaces, ' ');
    
-    cout << a << endl;
+    	cout << a << endl;
     	
 	} else {
    
-    spaces = (ll - a.size()) / 2; 
+    	spaces = (ll - a.size()) / 2; 
     
-    if (spaces > 0) cout << string(spaces, ' ');
+    	if (spaces > 0) cout << string(spaces, ' ');
    
-    cout << a << endl;
+    	cout << a << endl;
 		
 	}
  
