@@ -25,7 +25,7 @@ void center (string a, int b) {
     
     	if (spaces > 0) cout << string(spaces, ' ');
    
-    	cout << a;
+    	cout << a << endl;
     	
 	} else {
    
@@ -33,7 +33,7 @@ void center (string a, int b) {
     
     	if (spaces > 0) cout << string(spaces, ' ');
    
-    	cout << a << endl;
+    	cout << a;
 		
 	}
  
