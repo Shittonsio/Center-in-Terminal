@@ -1,2 +1,9 @@
 # 👉 Center-in-terminal
-A little piece of code used for center text in the terminal with C++
+
+This code is gonna help you to center text in the terminal with 3 differents options:
+
+1) <img href="https://imgur.com/ARbrgYP" alt="option-1"></img>
+
+
+
+
