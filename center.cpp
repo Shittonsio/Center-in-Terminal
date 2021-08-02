@@ -19,7 +19,7 @@ void center (string a, int b) {
    
     	cout << a << endl;
     	
-	} else if(b == 2) {
+	} else if (b == 2) {
 	
     	spaces = (ll - a.size()) / 2; 
     
